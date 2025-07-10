@@ -1,6 +1,7 @@
 # Surge-conf
 - Surge 配置文件名为(code 保持最新内容，release 可能更新不及时)：Available-proxy-main.conf
 - 原始文件链接(可直接通过url下载使用)：https://raw.githubusercontent.com/077dwei/Surge-conf/main/Available-proxy-main.conf
+- 项目链接：https://github.com/077dwei/Surge-conf
 
 *Surge 配置文件(适用于TF版本）*
 - 
